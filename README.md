@@ -25,7 +25,12 @@ Out-of-stock product Viz: This reveals that playfoam and hot wheel are the top 2
 
 Average Daily Sales Viz: This shows insight that weekends are the best-selling days.
 
-The city sales performance: Guadalajara and Monterrey are the cities with the highest sales.
+The city sales performance: Guadalajara and Monterrey have the highest sales.
 
+# Recommendation:
+1. Offer discounts to improve sales of Arts & Crafts, Games, and Sports & outdoors.
+2. Carry out accurate forecasting to prevent out-of-stock products across various stores.
+3. Offer discounts during weekdays to increase sales during the weekdays.
 
+   
 Thanks for reading, you can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiN2EwNDRiMDQtNTEyMi00YTUwLWFkODgtOTNmYmRiNDdjMmQ5IiwidCI6ImViMGI4MDY5LTllODUtNGU5Yi05ODVhLTBkZjBiNDQ4NmU0MiJ9).
